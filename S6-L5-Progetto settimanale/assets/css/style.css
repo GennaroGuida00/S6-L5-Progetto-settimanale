@@ -1,0 +1,29 @@
+.bg-body-blackTheme{
+    background-color:#141414 ;
+}
+.navbar-nav .nav-link{
+    color: darkgray;
+}
+.h-40px{
+    height: 40px;
+}
+.w-80{
+    width: 80%;
+}
+.w-10{
+    width: 10% !important;
+}
+.dropdown-menu-dark{
+    background-color:#141414 ;
+    border: 2px solid darkgray;
+
+}
+.mt-20{
+    margin-top: 100px;
+}
+.bi{
+    color: darkgray;
+}
+.grigio{
+    background-color: #333333;
+}
